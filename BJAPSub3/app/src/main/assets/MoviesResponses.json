@@ -1,0 +1,94 @@
+{
+  "movies": [
+    {
+      "id": "movies_1",
+      "title": "Bohemian Rhapsody",
+      "sinopsis": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "released_date": "2018",
+      "genre": "Music, Drama, History",
+      "duration": "2h 15m",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+    },
+    {
+      "id": "movies_2",
+      "title": "Parasite",
+      "sinopsis": "Parasite (Korean: 기생충; RR: Gisaengchung) is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who co-wrote the screenplay with Han Jin-won. The film, starring Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, and Lee Jung-eun, follows a poor family who scheme to become employed by a wealthy family and infiltrate their household by posing as unrelated, highly qualified individuals.",
+      "released_date": "2019",
+      "genre": "Comedy, Drama, Thriller",
+      "duration": "2h 12min",
+      "imagePath": "https://www.themoviedb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+    },
+    {
+      "id": "movies_3",
+      "title": "How to Train Your Dragon: \n The Hidden World",
+      "sinopsis": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "released_date": "2019",
+      "genre": "Animation, Family, Adventure Fiction",
+      "duration": "1h 44m",
+      "imagePath": "https://www.themoviedb.org/t/p/original/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    },
+    {
+      "id": "movies_4",
+      "title": "Joker",
+      "sinopsis": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "released_date": "2019",
+      "genre": "Crime, Drama, Thriller",
+      "duration": "2h 2m",
+      "imagePath": "https://www.themoviedb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    {
+      "id": "movies_5",
+      "title": "The Dark Night",
+      "sinopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "released_date": "2008",
+      "genre": "Action, Crime, Drama",
+      "duration": "2h 32m",
+      "imagePath": "https://www.themoviedb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "id": "movies_6",
+      "title": "The Matrix",
+      "sinopsis": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "released_date": "1999",
+      "genre": "Action, Sci-Fi",
+      "duration": "2h 16m",
+      "imagePath": "https://www.themoviedb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+    },
+    {
+      "id": "movies_7",
+      "title": "Mortal Kombat",
+      "sinopsis": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+      "released_date": "2021",
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "1h 50m",
+      "imagePath": "https://www.themoviedb.org/t/p/original/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg"
+    },
+    {
+      "id": "movies_8",
+      "title": "Aquaman",
+      "sinopsis": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+      "released_date": "2018",
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "2h 23m",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg"
+    },
+    {
+      "id": "movies_9",
+      "title": "Scoob!",
+      "sinopsis": "Scooby and the gang face their most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world. As they race to stop this dogpocalypse, the gang discovers that Scooby has an epic destiny greater than anyone imagined.",
+      "released_date": "2020",
+      "genre": "Animation, Adventure, Comedy",
+      "duration": "1h 33m",
+      "imagePath": "https://www.themoviedb.org/t/p/original/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg"
+    },
+    {
+      "id": "movies_10",
+      "title": "Godzilla vs Kong",
+      "sinopsis": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
+      "released_date": "2021",
+      "genre": "Action, Sci-Fi, Thriller",
+      "duration": "1h 53m",
+      "imagePath": "https://www.themoviedb.org/t/p/original/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieQ</string>
+    <string name="tv_show">TV Show</string>
+    <string name="movies">Movies</string>
+    <string name="title">Title</string>
+    <string name="dateline">Released</string>
+    <string name="overview">Overview</string>
+    <string name="txt_overview">Overview</string>
+    <string name="genre">Genre</string>
+    <string name="duration">Duration: %s</string>
+    <string name="released_date">Released Date: %s</string>
+    <string name="title_activity_detail_content">Detail Movie</string>
+</resources>
